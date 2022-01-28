@@ -606,7 +606,7 @@ spider.collide(block2Group)
    
 
   camera.position.x=spider.x+400
-  camera.position.y=435
+  camera.position.y=400
 
 
 v1.y=camera.position.y-310
